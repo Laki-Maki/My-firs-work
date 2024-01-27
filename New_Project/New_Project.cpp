@@ -3,8 +3,10 @@ using namespace std;
 
 int main()
 {
-    int a;
-    a = 45;
-    cout << a;
+    int a = 45;
+    int b = 10;
+    cout << a << endl;
+    cout << b << endl;
+
     return 0;
 }
